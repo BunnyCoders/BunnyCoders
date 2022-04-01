@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BunnyCoders
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning Codeignitor framework
+- 🌱 I’m currently learning Flutter Mobile Application Development framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : https://www.linkedin.com/in/shubham-rajak-559549159/
 
